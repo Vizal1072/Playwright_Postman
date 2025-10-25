@@ -1,0 +1,5 @@
+﻿P_name
+(//button[@class='btn_primary btn_inventory'][normalize-space()='ADD TO CART'])[1]
+(//button[@class='btn_primary btn_inventory'][normalize-space()='ADD TO CART'])[2]
+(//button[@class='btn_primary btn_inventory'][normalize-space()='ADD TO CART'])[3]
+//*[@id="inventory_container"]/div/div[2]/div[3]/button
